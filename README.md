@@ -5,4 +5,4 @@ In this project, I implemented several different sorting algorithms.
 ## Tests :heavy_check_mark:
 
 *************************************************************************************************
-Auth : HAMZA B ...
+Auth : Salma
